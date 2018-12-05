@@ -2,4 +2,4 @@
 
 Basic setup of django rest framework with a single model
 
-Create a pagination api to list the languages
+Create a pagination api to list the languages with the custom class for pagination
